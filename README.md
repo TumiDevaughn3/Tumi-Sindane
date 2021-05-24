@@ -1,8 +1,8 @@
-### Here is What I'm Working On! 👋
+### Hi there👋
 
+I'm Tumi from South Africa, and I do content on Design and Development. I really enjoy languages and frameworks like React and React Native, as well as work in AWS.
+I also enjoy wireframing, UI, UX, and design in general.
 
-
-Here are some ideas to get you started:
 
 - 🧑‍💻I'm currently working on ... My New Chat App
 - 🌱I'm currently Learning ... Vue js   
