@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 😃Pronouns: ... He/Him
 - ✨Fun fact ... I am the freelance radio host
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tumi-sindane)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tumiso-sindane&show_icons=true&theme=radical)
 
