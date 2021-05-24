@@ -12,3 +12,6 @@ Here are some ideas to get you started:
 - 📧How to reach me: ... tumisosindane@gmail.com
 - 😃Pronouns: ... He/Him
 - ✨Fun fact ... I am the freelance radio host
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tumisosindane)](https://github.com/anuraghazra/github-readme-stats)
+
